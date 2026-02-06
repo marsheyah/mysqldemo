@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^17.2.4",
+    "env": "^0.0.2",
     "express": "^5.2.1",
     "mysql2": "^3.16.2"
   }
